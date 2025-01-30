@@ -1,0 +1,9 @@
+body{
+    padding: 25px;
+  }
+  h1 + p { color: red;
+    
+  }
+  h1 ~ #Red { color: blue;
+  }
+  
