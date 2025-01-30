@@ -1,0 +1,16 @@
+body{
+    padding: 25px;
+  
+  }
+  h1{ color: red;
+  font-size: 80px;
+  text-align: left;
+  
+  }
+  p {
+    font-weight: lighter;
+    font-style: Arial;
+    color: yellow;
+  }
+  
+  
